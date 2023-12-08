@@ -13,4 +13,6 @@ ecos==2.0.12
 pandas=1.5.3
 scikit-learn==1.3.2
 
+Data is located here: https://archive.ics.uci.edu/dataset/2/adult
+
 Once in environment, code can be run in .ipynb file.
